@@ -1,2 +1,3 @@
-# hello-world (my name is andrii)
+# hello-world 
 test project
+my name is andrii
