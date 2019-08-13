@@ -11,3 +11,4 @@ my name is andrii
 1. Chocolate
    - dark
    - milk
+Inline `code` has `back-ticks around` it.
