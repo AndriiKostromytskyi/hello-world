@@ -14,13 +14,13 @@ my name is Andrii
 1. Chocolate
   - dark
   - milk
-   - dark
-   - milk
-    - corp
-    - other
-     - 123
+    - dark
+    - milk
+      - corp
+      - other
+        - 123
      
-Inline `code` has `back-ticks around` it. ``
+Inline `code` has `back-ticks around` it. ` `
 ~~~
 Tildes are OK too.
 ~~~
