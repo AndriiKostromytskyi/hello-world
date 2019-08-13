@@ -1,6 +1,5 @@
 # hello-world 
-test project
-my name is andrii
+my name is Andrii
 
 ![alt text](photo.png "Title Text")
 
@@ -9,11 +8,11 @@ my name is andrii
   - milk
 2. Chocolate
    - dark
-   - аа
-    - milk
-    - ааа
+   - milk
+     - corp
+     - other
    
-Inline `code` has `back-ticks around` it.
+Inline `code` has `back-ticks around` it. ``
 ~~~
 Tildes are OK too.
 ~~~
