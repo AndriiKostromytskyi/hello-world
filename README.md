@@ -27,7 +27,6 @@ def function():
     s = "Python code"
     print s
 ```
-
     Using 4 spaces
     is like using
     3-backtick fences.
