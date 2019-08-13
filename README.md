@@ -5,7 +5,7 @@ my name is andrii
 3 commit;
 4 commit;
 ![alt text](photo.png "Title Text")
-!(photo.png)
+![alt text](photo.png)
 1. Chocolate
   - dark
   - milk
