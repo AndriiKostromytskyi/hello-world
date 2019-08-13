@@ -23,6 +23,7 @@ def function():
     #indenting works just fine in the fenced code block
     s = "Python code"
     print s
+```    
 ~~~
 insert code
 ~~~
