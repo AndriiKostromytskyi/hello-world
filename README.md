@@ -6,21 +6,20 @@ my name is Andrii
 1. Chocolate
   - dark
   - milk
-1. Chocolate
+2. Chocolate
    - dark
    - milk
      - corp
      - other
-1. Chocolate
+3. Chocolate
   - dark
   - milk
     - dark
     - milk
       - corp
       - other
-        - 123
      
-Inline `code` has `back-ticks around` it. ` `
+Inline `code` has `back-ticks around` it.
 ~~~
 Tildes are OK too.
 ~~~
