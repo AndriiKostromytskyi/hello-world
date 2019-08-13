@@ -14,7 +14,7 @@ my name is andrii
     - ааа
    
 Inline `code` has `back-ticks around` it.
-~~ ~
+~~~
 Tildes are OK too.
 ~~~
 вава
@@ -24,5 +24,5 @@ def function():
     s = "Python code"
     print s
 ~~~
-insert
+insert code
 ~~~
